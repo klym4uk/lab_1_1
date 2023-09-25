@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                Toast.makeText(MainActivity.this, "wow, color changed", Toast.LENGTH_SHORT).show();
            TextView change_text= findViewById(R.id.textView);
            change_text.setText("Hello people");
+           // find text
 
            }
        });
